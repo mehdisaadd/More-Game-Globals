@@ -1,5 +1,6 @@
-[
-	{
+{
+  Games:[
+  {
 		"Gameid": 0,
 		"Gamename": "This is It",
 		"boosted": false,
@@ -14,3 +15,4 @@
 		"IconUrl": "https://appimg2.dbankcdn.com/application/icon144/65/30b50de849964c789b325b6a5acc9488.png"
 	}
 ]
+}
