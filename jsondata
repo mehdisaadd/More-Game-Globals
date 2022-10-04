@@ -1,0 +1,16 @@
+[
+	{
+		"Gameid": 0,
+		"Gamename": "This is It",
+		"boosted": false,
+		"GameUrl": "https://appgallery.huawei.com/app/C103943297",
+		"IconUrl": "https://appimg2.dbankcdn.com/application/icon144/65/7b9d3be95c6049f0a7f8ec7c8524a71f.png"
+	},
+	{
+		"Gameid": 1,
+		"Gamename": "Live or Die",
+		"boosted": false,
+		"GameUrl": "https://appgallery.huawei.com/app/C106858747",
+		"IconUrl": "https://appimg2.dbankcdn.com/application/icon144/65/30b50de849964c789b325b6a5acc9488.png"
+	}
+]
