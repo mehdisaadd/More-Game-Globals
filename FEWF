@@ -5,28 +5,28 @@
 		"Gamename": "This is It",
 		"boosted": true,
 		"GameUrl": "https://appgallery.huawei.com/app/C103943297",
-		"IconUrl": "https://play-lh.googleusercontent.com/SxrdDIgc3YleGQLEkpZ7LammioQEITKA0yvzeMrFcQKkABNSQNuA5hDZjH9LMFZIIco=s96-rw"
+		"IconUrl": "https://image.winudf.com/v2/image1/Y29tLnN1cGVyY2VsbC5oYXlkYXlfaWNvbl8xNTYxMzc5NDYyXzA0Ng/icon.png?w=512&fakeurl=1"
 	},
 	{
 		"Gameid": 1,
 		"Gamename": "Live or Die",
 		"boosted": false,
 		"GameUrl": "https://appgallery.huawei.com/app/C106858747",
-		"IconUrl": "https://play-lh.googleusercontent.com/GJxqZifPfX0koB8ibVxQrFprx1b4QCdcGlyrC0wvJ-aogUQD1x5mPA5h6YdXwACqwg=w480-h960-rw"
+		"IconUrl": "https://image.winudf.com/v2/image1/Y29tLmR0cy5mcmVlZmlyZXRoX2ljb25fMTY2Mzc1MjY5NV8wMjA/icon.png?w=512&fakeurl=1"
 	},
   	{
 		"Gameid": 3,
 		"Gamename": "Live or Die",
 		"boosted": true,
 		"GameUrl": "https://appgallery.huawei.com/app/C106858747",
-		"IconUrl": "https://play-lh.googleusercontent.com/EGn83xeYjEu_EaAe1y01MoUwnI0fSqxRpAdWDoJlgYLAtUnQUuYwVU73SSaE-sC4v-lQ=s96-rw"
+		"IconUrl": "https://image.winudf.com/v2/image1/Y29tLmdhcmVuYS5nYW1lLmZjc2FjX2ljb25fMTU4OTE3NzQ5Ml8wOTQ/icon.png?w=512&fakeurl=1"
 	},
   	{
 		"Gameid": 4,
 		"Gamename": "Live or Die",
 		"boosted": false,
 		"GameUrl": "https://appgallery.huawei.com/app/C106858747",
-		"IconUrl": "https://play-lh.googleusercontent.com/kYWGXrx5TYMcD7KSefBvrMuTI6Ac_6Qk6Jl9yb84wbW4Qi6kl2cMNt5GT5VNQhx3meow=s96-rw"
+		"IconUrl": "https://image.winudf.com/v2/image1/Y29tLmFjdGl2aXNpb24uY2FsbG9mZHV0eS5zaG9vdGVyX2ljb25fMTYzNzA0NjEyOF8wMDc/icon.png?w=512&fakeurl=1"
 	}
 ]
 }
