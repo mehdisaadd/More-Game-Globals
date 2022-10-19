@@ -1,1 +1,32 @@
-Game-Global-Google
+{
+  Games:[
+  {
+		"Gameid": 0,
+		"Gamename": "Scale Man",
+		"boosted": true,
+		"GameUrl": "https://m.apkpure.com/scaleman/com.kayac.ScaleMan",
+		"IconUrl": "https://image.winudf.com/v2/image1/Y29tLmtheWFjLlNjYWxlTWFuX2ljb25fMTY1OTk5MDE3MV8wOTE/icon.png?w=512&fakeurl=1"
+	},
+	{
+		"Gameid": 1,
+		"Gamename": "perfectlie",
+		"boosted": true,
+		"GameUrl": "https://m.apkpure.com/perfect-lie/com.funcell.perfectlie",
+		"IconUrl": "https://image.winudf.com/v2/image1/Y29tLmZ1bmNlbGwucGVyZmVjdGxpZV9pY29uXzE2NjIwNjIwMjdfMDU0/icon.png?w=512&fakeurl=1"
+	},
+  	{
+		"Gameid": 3,
+		"Gamename": "runandfight",
+		"boosted": true,
+		"GameUrl": "https://m.apkpure.com/join-clash-3d/com.freeplay.runandfight",
+		"IconUrl": "https://image.winudf.com/v2/image1/Y29tLmZyZWVwbGF5LnJ1bmFuZGZpZ2h0X2ljb25fMTY1NjY3NTY1NV8wNjU/icon.png?w=512&fakeurl=1"
+	},
+  	{
+		"Gameid": 4,
+		"Gamename": "KisekiGames",
+		"boosted": true,
+		"GameUrl": "https://m.apkpure.com/my-mini-mart/com.KisekiGames.smart",
+		"IconUrl": "https://image.winudf.com/v2/image1/Y29tLktpc2VraUdhbWVzLnNtYXJ0X2ljb25fMTY2MzE0ODAyN18wODc/icon.png?w=512&fakeurl=1"
+	}
+]
+}
