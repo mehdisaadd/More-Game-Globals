@@ -2,31 +2,52 @@
   Games:[
   {
 		"Gameid": 0,
-		"Gamename": "Scale Man",
+		"Gamename": "Kawaii Craft",
 		"boosted": true,
-		"GameUrl": "https://m.apkpure.com/scaleman/com.kayac.ScaleMan",
-		"IconUrl": "https://image.winudf.com/v2/image1/Y29tLmtheWFjLlNjYWxlTWFuX2ljb25fMTY1OTk5MDE3MV8wOTE/icon.png?w=512&fakeurl=1"
+		"GameUrl": "https://appgallery.huawei.com/app/C107321893",
+		"IconUrl": "https://appimg2.dbankcdn.com/application/icon144/65/581798e3d6794ef6893faf7ab5e4bbbf.png"
 	},
 	{
 		"Gameid": 1,
-		"Gamename": "perfectlie",
+		"Gamename": "Block Craft 3D",
 		"boosted": true,
-		"GameUrl": "https://m.apkpure.com/perfect-lie/com.funcell.perfectlie",
-		"IconUrl": "https://image.winudf.com/v2/image1/Y29tLmZ1bmNlbGwucGVyZmVjdGxpZV9pY29uXzE2NjIwNjIwMjdfMDU0/icon.png?w=512&fakeurl=1"
+		"GameUrl": "https://appgallery.huawei.com/app/C107272147",
+		"IconUrl": "https://appimg2.dbankcdn.com/application/icon144/65/2c7018f66aed4436b0f8fbec46bd77b3.png"
+	},
+  	{
+		"Gameid": 2,
+		"Gamename": "Rainbow Friends",
+		"boosted": true,
+		"GameUrl": "https://appgallery.huawei.com/app/C107208275",
+		"IconUrl": "https://appimg2.dbankcdn.com/application/icon144/65/7b47edf5b0174b9d92f37604200c7fd5.png"
 	},
   	{
 		"Gameid": 3,
-		"Gamename": "runandfight",
+		"Gamename": "Rainbow Blue",
 		"boosted": true,
-		"GameUrl": "https://m.apkpure.com/join-clash-3d/com.freeplay.runandfight",
-		"IconUrl": "https://image.winudf.com/v2/image1/Y29tLmZyZWVwbGF5LnJ1bmFuZGZpZ2h0X2ljb25fMTY1NjY3NTY1NV8wNjU/icon.png?w=512&fakeurl=1"
+		"GameUrl": "https://appgallery.huawei.com/app/C107166523",
+		"IconUrl": "https://appimg2.dbankcdn.com/application/icon144/65/2f2a4c95c9ad400b9b5157e5e982582b.png"
+	},
+	{
+		"Gameid": 4,
+		"Gamename": "Yellow Baby",
+		"boosted": true,
+		"GameUrl": "https://appgallery.huawei.com/app/C107222383",
+		"IconUrl": "https://appimg2.dbankcdn.com/application/icon144/65/cbd40fb17c8d4473a4caa6391aec163c.png"
 	},
   	{
-		"Gameid": 4,
-		"Gamename": "KisekiGames",
+		"Gameid": 5,
+		"Gamename": "Ice Cream",
 		"boosted": true,
-		"GameUrl": "https://m.apkpure.com/my-mini-mart/com.KisekiGames.smart",
-		"IconUrl": "https://image.winudf.com/v2/image1/Y29tLktpc2VraUdhbWVzLnNtYXJ0X2ljb25fMTY2MzE0ODAyN18wODc/icon.png?w=512&fakeurl=1"
+		"GameUrl": "https://appgallery.huawei.com/app/C107330755",
+		"IconUrl": "https://appimg2.dbankcdn.com/application/icon144/65/25d4f088742b4c10a1b5d203a3e7fcab.png"
+	},
+	{
+		"Gameid": 6,
+		"Gamename": "Princess Dress",
+		"boosted": true,
+		"GameUrl": "https://appgallery.huawei.com/app/C107289487",
+		"IconUrl": "https://appimg2.dbankcdn.com/application/icon144/65/a529005f9b5a409e9e0f818d32b1807f.png"
 	}
 ]
 }
