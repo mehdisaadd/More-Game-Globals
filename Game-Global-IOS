@@ -1,1 +1,12 @@
 
+{
+  Games:[
+  {
+		"Gameid": 0,
+		"Gamename": "Alphabet Lore",
+		"boosted": true,
+		"GameUrl": "https://apps.apple.com/app/id6444912371",
+		"IconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/77/50/d0775046-6b27-c478-3b4a-5107627d34a0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg"
+	}
+]
+}
