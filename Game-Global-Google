@@ -20,6 +20,20 @@
 		"boosted": true,
 		"GameUrl": "https://play.google.com/store/apps/details?id=com.rythmic.alphabet.lord.swipe.education.evil.f.abcd",
 		"IconUrl": "https://play-lh.googleusercontent.com/qi0HT9hTNVT72VMyWcF5EfKd3gEw3NsYdafnTCzNn4EVzE71FjubprrMJQrTESkji_o"
+	},
+	{
+		"Gameid": 3,
+		"Gamename": "Alphabet Scary",
+		"boosted": true,
+		"GameUrl": "https://play.google.com/store/apps/details?id=com.glowingstudio.alphabet.lord.survival.letters.puzzle",
+		"IconUrl": "https://play-lh.googleusercontent.com/LLmHm_P_i_pO2tkrjpjO__H0XeeAXXGh3SohM1DEYpEooiaR1ihvabnnwW4rmhbDoDg"
+	},
+	{
+		"Gameid": 4,
+		"Gamename": "Alphabet Animation",
+		"boosted": true,
+		"GameUrl": "https://play.google.com/store/apps/details?id=com.scarybear.alphabet.lore.drawing.animation.lord",
+		"IconUrl": "https://play-lh.googleusercontent.com/qQ8G8S5nPLF9HeMWYq3Vc59aks8SaHhZH_qQ5EDaAyVYmZ4WitW8xHX1RdvXIk-_OOg"
 	}
 ]
 }
