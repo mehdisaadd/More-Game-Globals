@@ -51,10 +51,31 @@
 	},
 	{
 		"Gameid": 7,
-		"Gamename": "choo choo horror spider train",
+		"Gamename": "horror train",
 		"boosted": true,
-		"GameUrl": "https://play.google.com/store/apps/details?id=com.joeramsy.survival.cho.choo.spider.train",
-		"IconUrl": "https://play-lh.googleusercontent.com/CRoAE8IglO51zp1ris0TMC1VsHZyZrE_OEes6X18CzVGCNFwvO_M2aJxItVGVIzl1xg"
+		"GameUrl": "https://play.google.com/store/apps/details?id=com.adalshmidt.survival.choo.horror.spider.train",
+		"IconUrl": "https://play-lh.googleusercontent.com/ik2HDpNqs8EGrhOQDXVFkRWd4UjX2ogBvPbGmXTQOS5dT3HwRi5Swkms0oRHkiCDErvm"
+	},
+	{
+		"Gameid": 8,
+		"Gamename": "spider train",
+		"boosted": true,
+		"GameUrl": "https://play.google.com/store/apps/details?id=com.scarybear.horroor.spider.train.charlie.choo.choo",
+		"IconUrl": "https://play-lh.googleusercontent.com/v43Sr75EbuTkSUCr0nAsTXQaHFsQD5ulr1RkCcpGZ5mCk5J9Cf8GCT06UcdK13SV7g"
+	},
+	{
+		"Gameid": 9,
+		"Gamename": "horror spider train",
+		"boosted": true,
+		"GameUrl": "https://play.google.com/store/apps/details?id=com.kranbi.boxi.boo.horror.choo.choo.spider.train",
+		"IconUrl": "https://play-lh.googleusercontent.com/xEf006_1vUFQfvGUkjFqzVZyeumKpbK6HjqWdtD4vTfJB5_bgZl4Bhbyqjr5ywJAYA"
+	},
+	{
+		"Gameid": 10,
+		"Gamename": "choo horror train",
+		"boosted": true,
+		"GameUrl": "https://play.google.com/store/apps/details?id=com.glowing.survival.spider.train.evil.charles",
+		"IconUrl": "https://play-lh.googleusercontent.com/MmCC7lPb4sezkh3gyopW1hdAz157mBtzUN8145JBSloRbIjRL1v2r6QHiTODVH6b9g"
 	}
 ]
 }
