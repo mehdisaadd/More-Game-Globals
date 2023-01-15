@@ -1,12 +1,19 @@
 
 {
   Games:[
-  {
+  	{
 		"Gameid": 0,
 		"Gamename": "Alphabet Lore",
 		"boosted": true,
 		"GameUrl": "https://apps.apple.com/app/id6444912371",
 		"IconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/77/50/d0775046-6b27-c478-3b4a-5107627d34a0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg"
+	},
+	{
+		"Gameid": 1,
+		"Gamename": "Choo Horror",
+		"boosted": true,
+		"GameUrl": "https://apps.apple.com/app/id1664523740",
+		"IconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/6f/8d/30/6f8d3091-98f7-e2d9-1552-7b088c78dff1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg"
 	}
 ]
 }
