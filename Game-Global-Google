@@ -3,37 +3,23 @@
   {
 		"Gameid": 0,
 		"Gamename": "Horror ABCD",
-		"boosted": true,
+		"boosted": false,
 		"GameUrl": "https://play.google.com/store/apps/details?id=com.nana.alphabet.horror.survival.lord.letters.tps",
 		"IconUrl": "https://play-lh.googleusercontent.com/3BlW6OCc4jh1SZrMq_2UPlJntm-Ybk19pcvOAjbW6W32U-bXCzbQeUjatftbbWbwDyZm"
 	},
 	{
-		"Gameid": 1,
-		"Gamename": "Alphabet Merge",
+		"Gameid": 5,
+		"Gamename": "bam horror",
 		"boosted": true,
-		"GameUrl": "https://play.google.com/store/apps/details?id=com.adalshmidt.alphabet.az.simulation.lore",
-		"IconUrl": "https://play-lh.googleusercontent.com/Xn5WTZMEm0Yq9ppXKxap4xsKYgDHMeEaCLPZ7PVbr5ilzRcmFgongNtjIxS4RqQOjg"
-	},
-  	{
-		"Gameid": 2,
-		"Gamename": "Alphabet Swipe",
-		"boosted": true,
-		"GameUrl": "https://play.google.com/store/apps/details?id=com.rythmic.alphabet.lord.swipe.education.evil.f.abcd",
-		"IconUrl": "https://play-lh.googleusercontent.com/qi0HT9hTNVT72VMyWcF5EfKd3gEw3NsYdafnTCzNn4EVzE71FjubprrMJQrTESkji_o"
+		"GameUrl": "https://play.google.com/store/apps/details?id=com.scarybear.garten.of.bambam.horror.escape.game",
+		"IconUrl": "https://play-lh.googleusercontent.com/jcwXoFXojIzogBFTq4wT6FPiT5pQ6JWWnw7hYMMk-5KP5iiFpVbzdz5W2u_PRYd_f0k"
 	},
 	{
-		"Gameid": 3,
-		"Gamename": "Alphabet Scary",
+		"Gameid": 5,
+		"Gamename": "bam horror",
 		"boosted": true,
-		"GameUrl": "https://play.google.com/store/apps/details?id=com.glowingstudio.alphabet.lord.survival.letters.puzzle",
-		"IconUrl": "https://play-lh.googleusercontent.com/LLmHm_P_i_pO2tkrjpjO__H0XeeAXXGh3SohM1DEYpEooiaR1ihvabnnwW4rmhbDoDg"
-	},
-	{
-		"Gameid": 4,
-		"Gamename": "Alphabet Animation",
-		"boosted": true,
-		"GameUrl": "https://play.google.com/store/apps/details?id=com.scarybear.alphabet.lore.drawing.animation.lord",
-		"IconUrl": "https://play-lh.googleusercontent.com/qQ8G8S5nPLF9HeMWYq3Vc59aks8SaHhZH_qQ5EDaAyVYmZ4WitW8xHX1RdvXIk-_OOg"
+		"GameUrl": "https://play.google.com/store/apps/details?id=com.adal.horror.game.Garten.of.Banban.chapter2",
+		"IconUrl": "https://play-lh.googleusercontent.com/IUHjrB69Sr3nKk3H-U3-ogtaiYvx8xXbR2NOly7XUmddUnB4EXXUuafARIM7pd_G5Q"
 	},
 	{
 		"Gameid": 5,
@@ -43,38 +29,10 @@
 		"IconUrl": "https://play-lh.googleusercontent.com/ik2HDpNqs8EGrhOQDXVFkRWd4UjX2ogBvPbGmXTQOS5dT3HwRi5Swkms0oRHkiCDErvm"
 	},
 	{
-		"Gameid": 6,
-		"Gamename": "Choo Choo charles Spider Train",
-		"boosted": true,
-		"GameUrl": "https://play.google.com/store/apps/details?id=com.joeramsy.survival.cho.choo.spider.train",
-		"IconUrl": "https://play-lh.googleusercontent.com/CRoAE8IglO51zp1ris0TMC1VsHZyZrE_OEes6X18CzVGCNFwvO_M2aJxItVGVIzl1xg"
-	},
-	{
-		"Gameid": 7,
-		"Gamename": "horror train",
-		"boosted": true,
-		"GameUrl": "https://play.google.com/store/apps/details?id=com.adalshmidt.survival.choo.horror.spider.train",
-		"IconUrl": "https://play-lh.googleusercontent.com/ik2HDpNqs8EGrhOQDXVFkRWd4UjX2ogBvPbGmXTQOS5dT3HwRi5Swkms0oRHkiCDErvm"
-	},
-	{
-		"Gameid": 8,
-		"Gamename": "spider train",
-		"boosted": true,
-		"GameUrl": "https://play.google.com/store/apps/details?id=com.scarybear.horroor.spider.train.charlie.choo.choo",
-		"IconUrl": "https://play-lh.googleusercontent.com/v43Sr75EbuTkSUCr0nAsTXQaHFsQD5ulr1RkCcpGZ5mCk5J9Cf8GCT06UcdK13SV7g"
-	},
-	{
-		"Gameid": 9,
-		"Gamename": "horror spider train",
-		"boosted": true,
-		"GameUrl": "https://play.google.com/store/apps/details?id=com.kranbi.boxi.boo.horror.choo.choo.spider.train",
-		"IconUrl": "https://play-lh.googleusercontent.com/xEf006_1vUFQfvGUkjFqzVZyeumKpbK6HjqWdtD4vTfJB5_bgZl4Bhbyqjr5ywJAYA"
-	},
-	{
 		"Gameid": 10,
 		"Gamename": "choo horror train",
 		"boosted": true,
-		"GameUrl": "https://play.google.com/store/apps/details?id=com.glowing.survival.spider.train.evil.charles",
+		"GameUrl": "https://play.google.com/store/apps/details?id=com.glowing.charlie.choo.choo.spider.train.horror",
 		"IconUrl": "https://play-lh.googleusercontent.com/MmCC7lPb4sezkh3gyopW1hdAz157mBtzUN8145JBSloRbIjRL1v2r6QHiTODVH6b9g"
 	}
 ]
