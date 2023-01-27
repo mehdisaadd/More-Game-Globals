@@ -10,6 +10,13 @@
 	},
 	{
 		"Gameid": 1,
+		"Gamename": "Chess Game",
+		"boosted": true,
+		"GameUrl": "https://apps.apple.com/us/app/real-money-chess-prizes-skillz/id6444390683",
+		"IconUrl": "https://portal-games.cdn.skillz.com/_next/image?url=https%3A%2F%2Fcdn.skillz.com%2Fdevportal2%2Fuploads%2Fgame%2Ficon%2F20445%2Fthumbnail_Untitled_design__62_.png&w=256&q=75"
+	},
+	{
+		"Gameid": 2,
 		"Gamename": "Choo Horror",
 		"boosted": true,
 		"GameUrl": "https://apps.apple.com/app/id1664523740",
