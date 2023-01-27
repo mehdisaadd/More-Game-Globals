@@ -27,13 +27,6 @@
 		"boosted": true,
 		"GameUrl": "https://play.google.com/store/apps/details?id=com.adalshmidt.survival.choo.horror.spider.train",
 		"IconUrl": "https://play-lh.googleusercontent.com/ik2HDpNqs8EGrhOQDXVFkRWd4UjX2ogBvPbGmXTQOS5dT3HwRi5Swkms0oRHkiCDErvm"
-	},
-	{
-		"Gameid": 10,
-		"Gamename": "choo horror train",
-		"boosted": true,
-		"GameUrl": "https://play.google.com/store/apps/details?id=com.glowing.charlie.choo.choo.spider.train.horror",
-		"IconUrl": "https://play-lh.googleusercontent.com/MmCC7lPb4sezkh3gyopW1hdAz157mBtzUN8145JBSloRbIjRL1v2r6QHiTODVH6b9g"
 	}
 ]
 }
