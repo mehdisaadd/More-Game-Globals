@@ -23,6 +23,34 @@
 	},
 	{
 		"Gameid": 3,
+		"Gamename": "talking pabl",
+		"boosted": true,
+		"GameUrl": "https://play.google.com/store/apps/details?id=com.adalshmidt.talking.pablo.dog.simulator",
+		"IconUrl": "https://play-lh.googleusercontent.com/HG0Gmnt4zdGmUfYCQlg9VuOkZm5nggy0HZVJ0OY2guSia5HXYuBCfR93ZY1F0H97RM8"
+	},
+	{
+		"Gameid": 4,
+		"Gamename": "talking juan",
+		"boosted": true,
+		"GameUrl": "https://play.google.com/store/apps/details?id=com.adalshmidt.talking.juan.cat.simulation",
+		"IconUrl": "https://play-lh.googleusercontent.com/8jbX6qn37747L07SnRDk-0_uS4-KqZGXwLF0M50jMwW_KvauzNzY4c8I_8rMc6lF_98"
+	},
+	{
+		"Gameid": 5,
+		"Gamename": "boma uma",
+		"boosted": true,
+		"GameUrl": "https://play.google.com/store/apps/details?id=com.glowing.Bora.Toma.Uma.jogo",
+		"IconUrl": "https://play-lh.googleusercontent.com/rcp3UwApNHeRLf4tefMhZizyHVxGsOcPq7ERb2rOC2zdbv6ELqc-zzhNVK4mKLONAU0"
+	},
+	{
+		"Gameid": 6,
+		"Gamename": "granny bambam",
+		"boosted": true,
+		"GameUrl": "https://play.google.com/store/apps/details?id=com.scarybear.garten.of.granny.banban",
+		"IconUrl": "https://play-lh.googleusercontent.com/CJBYurQqhRyh3Ue_5SjISDmkzFpHhI48S_ngbvss0pcOWIlg19duDKUkXvHxf6DJ5vE"
+	},
+	{
+		"Gameid": 7,
 		"Gamename": "Hell Charles Choo horror train",
 		"boosted": true,
 		"GameUrl": "https://play.google.com/store/apps/details?id=com.adalshmidt.survival.choo.horror.spider.train",
