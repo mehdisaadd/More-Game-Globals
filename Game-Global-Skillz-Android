@@ -1,1 +1,12 @@
 
+{
+  Games:[
+	{
+		"Gameid": 0,
+		"Gamename": "Chess Game",
+		"boosted": true,
+		"GameUrl": "https://games.skillz.com/games/chess/real-money-chess-prizes-skillz-20383",
+		"IconUrl": "https://portal-games.cdn.skillz.com/_next/image?url=https%3A%2F%2Fcdn.skillz.com%2Fdevportal2%2Fuploads%2Fgame%2Ficon%2F20445%2Fthumbnail_Untitled_design__62_.png&w=256&q=75"
+	}
+]
+}
