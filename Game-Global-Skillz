@@ -7,6 +7,13 @@
 		"boosted": true,
 		"GameUrl": "https://apps.apple.com/us/app/real-money-chess-prizes-skillz/id6444390683",
 		"IconUrl": "https://portal-games.cdn.skillz.com/_next/image?url=https%3A%2F%2Fcdn.skillz.com%2Fdevportal2%2Fuploads%2Fgame%2Ficon%2F20445%2Fthumbnail_Untitled_design__62_.png&w=256&q=75"
+	},
+	{
+		"Gameid": 1,
+		"Gamename": "Bubble Cash",
+		"boosted": true,
+		"GameUrl": "https://apps.apple.com/us/app/win-real-cash-bubble-shooter/id6451369715",
+		"IconUrl": "https://i.ibb.co/4dLsjvD/Game-Icone.png"
 	}
 ]
 }
